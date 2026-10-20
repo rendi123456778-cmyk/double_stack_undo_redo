@@ -5,6 +5,7 @@ redo_stack = []
 teks = ""
 
 while True:
+    # kita buat kan menu
     print("\n=== MENU UNDO DAN REDO ===")
     print("1. Tambah teks")
     print("2. Undo")
